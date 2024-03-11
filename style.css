@@ -321,11 +321,6 @@ body {
   gap: 16px
 }
 
-@media(max-width: 1200px) {
-  .header .content__btns {
-    display: none
-  }
-}
 
 @media(max-width: 375px) {
   .header .content__btns {
